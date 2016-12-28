@@ -51,18 +51,43 @@ roles:
  - title: Application Discipline Lead - EMEA
    start: 2016
    end: Ongoing
-   employer: Dell EMC
+   employer: Dell EMC (part of Dell Technologies)
    description: EMEA Lead for Applications for EMEA including customer facing engagement, design and construction of Cloud Native, Mobile, Legacy Integration, Application Migration and Modernization
  - title: Advisory Solutions Principle / Solution Services Director
    start: 2014
    end: 2016
-   employer: Dell EMC
+   employer: Dell EMC (part of Dell Technologies)
    description: Middle East and Africa focused Application Solutions Principle working on verticals including Public Security, Telecom, Finance and Specialist in facing customers, desiging and implementing solutions
  - title: Senior Field Engineer
    start: 2013
    end: 2014
    employer: Pivotal (part of Dell Technologies)
    description: Covering the Middle East and Africa, focused on helping customers migrate to Cloud Native design and adopting CloudFoundry along with Big Data solutions
+ - title: Senior Consultant
+   start: 2013
+   end: 2013
+   employer: Pivotal (part of Dell Technologies)
+   description: Developing Spring Batch and Spring Integration based solutions for Customers in New York, New York for the Financial Services Industry
+ - title: Senior Consultant
+   start: 2013
+   end: 2011
+   employer: VMware (part of Dell Technologies)
+   description: Developing Spring Batch and Spring Integration based solutions for Customers in New York, New York for the Financial Services Industry   
+ - title: Associate Directory - Projects
+   start: 2011
+   end: 2011
+   employer: Cognizant
+   description: Developing Legacy integration solutions for Cognizant Technologies based in the North East of the United States
+ - title: Consultant
+   start: 2010
+   end: 2010
+   employer: Ericsson (@ du)
+   description: Developing messaging integration hubs for legacy systems for du telecom in Dubai
+ - title: Consultant
+   start: 2010
+   end: 2010
+   employer: Vodafone Turkey
+   description: Developing messaging integration hubs for legacy systems for Vodafone Turkey   
 
 #Education is required
 #education:
@@ -85,19 +110,19 @@ roles:
 #      date: April 28, 2014
 
 #List of interesting Github repo/projects to include - optional
-github:
- - robhinds/learning-neural-networks
- - robhinds/akka-http-rest-api-sample
- - robhinds/twitter-sentiment-analysis
- - robhinds/spring-reactor-twitter
- - robhinds/microservices
- - robhinds/spring-social-geeklist
- - robhinds/spring-social-stackoverflow
- - robhinds/food2vec
- - robhinds/SpringMongoIntegrationExample
- - robhinds/SpringNeo4JWebApp
- - robhinds/AndroidChuckQuiz
- - robhinds/AndroidRssReader
+#github:
+# - robhinds/learning-neural-networks
+# - robhinds/akka-http-rest-api-sample
+# - robhinds/twitter-sentiment-analysis
+# - robhinds/spring-reactor-twitter
+# - robhinds/microservices
+# - robhinds/spring-social-geeklist
+# - robhinds/spring-social-stackoverflow
+# - robhinds/food2vec
+# - robhinds/SpringMongoIntegrationExample
+# - robhinds/SpringNeo4JWebApp
+# - robhinds/AndroidChuckQuiz
+# - robhinds/AndroidRssReader
 
 #Stackoverflow flair is optional
 stackoverflow:
