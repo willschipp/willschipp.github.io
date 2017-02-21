@@ -10,7 +10,7 @@ markdown: kramdown
 #Links that will appear in the navbar
 primarylinks:
  - title: Blog
-   url: http://incomplete-code.blogger.com/
+   url: http://incomplete-co.de/
  - title: GitHub
    url: https://github.com/willschipp
  - title: StackOverflow
